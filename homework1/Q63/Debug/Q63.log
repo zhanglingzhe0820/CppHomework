@@ -1,0 +1,18 @@
+﻿Build started 2017/9/28 23:47:34.
+     1>Project "L:\C++\homework\homework1\Q63\Q63.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>l:\c++\homework\homework1\q63\source.cpp(17): error C3861: 'execute': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(30): error C3861: 'add': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(34): error C3861: 'sub': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(38): error C3861: 'mul': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(42): error C2661: 'pow' : no overloaded function takes 3 arguments
+     1>l:\c++\homework\homework1\q63\source.cpp(46): error C3861: 'sqa': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(49): error C3861: 'print': identifier not found
+     1>l:\c++\homework\homework1\q63\source.cpp(73): error C3861: 'power': identifier not found
+     1>Done Building Project "L:\C++\homework\homework1\Q63\Q63.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51

@@ -1,0 +1,16 @@
+﻿Build started 2017/9/29 0:00:04.
+     1>Project "L:\C++\homework\homework1\Q64\Q64.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>l:\c++\homework\homework1\q64\source.cpp(25): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>l:\c++\homework\homework1\q64\source.cpp(26): warning C4244: 'initializing' : conversion from 'double' to '__int64', possible loss of data
+     1>l:\c++\homework\homework1\q64\source.cpp(256): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\C++\homework\homework1\Debug\Q64.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"L:\C++\homework\homework1\Debug\Q64.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\C++\homework\homework1\Debug\Q64.lib" /MACHINE:X86 Debug\Source.obj
+         Q64.vcxproj -> L:\C++\homework\homework1\Debug\Q64.exe
+     1>Done Building Project "L:\C++\homework\homework1\Q64\Q64.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
