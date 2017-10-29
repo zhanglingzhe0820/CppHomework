@@ -1,0 +1,22 @@
+﻿Build started 2017/10/28 13:15:52.
+     1>Project "L:\C++\homework\CppHomework\homework2\Q86\Q86.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         L:\VS\VC\bin\CL.exe /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         
+         Source.cpp
+       Link:
+         L:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\C++\homework\CppHomework\homework2\Debug\Q86.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"L:\C++\homework\CppHomework\homework2\Debug\Q86.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\C++\homework\CppHomework\homework2\Debug\Q86.lib" /MACHINE:X86 Debug\Source.obj
+         Microsoft (R) Incremental Linker Version 12.00.40629.0
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:L:\C++\homework\CppHomework\homework2\Debug\Q86.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:L:\C++\homework\CppHomework\homework2\Debug\Q86.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:L:\C++\homework\CppHomework\homework2\Debug\Q86.lib" /MACHINE:X86 Debug\Source.obj 
+         Q86.vcxproj -> L:\C++\homework\CppHomework\homework2\Debug\Q86.exe
+     1>Done Building Project "L:\C++\homework\CppHomework\homework2\Q86\Q86.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
